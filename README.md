@@ -11,7 +11,10 @@ This is an example of a multi-pane layouts use case by adding a small feature al
   <tr>
     <td><img src="./Screenshot1.jpg" width=200 height=400></td>
     <td><img src="./Screenshot2.jpg" width=200 height=400></td>
-    <td><img src="./ScreenShot4.jpg" width=200 height=400></td>
+    <td><img src="./Demo_Portrait.gif" width=200 height=400></td>
+  </tr>
+  <tr>
+  <td><img src="./Demo_Landscape.gif" width=400 height=200></td>
   </tr>
  </table>
  
