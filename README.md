@@ -14,6 +14,6 @@ This is an example of a multi-pane layouts use case by adding a small feature al
     <td><img src="./Demo_Portrait.gif" width=200 height=400></td>
   </tr>
   <tr colspan="3"> <td>Demo (Landscape)</td></tr>
-  <tr><img src="./Demo_Landscape.gif" width=400 height=200></tr>
+  <tr><td><img src="./Demo_Landscape.gif" width=400 height=200><td></tr>
  </table>
  
